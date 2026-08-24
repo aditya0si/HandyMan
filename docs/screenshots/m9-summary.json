@@ -1,0 +1,333 @@
+{
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.453733,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floating_windows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:37:10\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:37:10\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "titles_visible": true,
+  "positions_distinct": true,
+  "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:37:10\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n216 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "reset_button": {
+    "present": true
+  },
+  "fps_logged": [
+    42,
+    44,
+    49,
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    9,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 49,
+  "latency_avgs_ms": [
+    2079,
+    218,
+    213,
+    217,
+    218,
+    216,
+    217,
+    214,
+    219,
+    218,
+    216,
+    218,
+    218,
+    214,
+    216,
+    218,
+    216,
+    221,
+    220,
+    218,
+    217,
+    218,
+    217,
+    218,
+    213,
+    218,
+    221,
+    220,
+    216,
+    2158,
+    215,
+    217,
+    219,
+    218,
+    217,
+    215,
+    218,
+    218,
+    218,
+    219,
+    221,
+    221,
+    221,
+    215,
+    211
+  ],
+  "latency_min_avg": 211,
+  "latency_line_count": 45,
+  "cleanup_counts": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "perf_line_count": 11,
+  "perf_all_match": true,
+  "cdn_asset_count": 12,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_log_lines": [],
+  "boot_line_hits": 4,
+  "chat1_first_boot": {
+    "banner_present": true,
+    "banner_text": "DEMO MODE \u2014 no key (proxy & direct)",
+    "input_present": true,
+    "input_empty": true,
+    "send_present": true,
+    "send_disabled": true
+  },
+  "launcher_probe": {
+    "pre": {
+      "openDashboard": {
+        "present": true,
+        "disabled": false
+      },
+      "openNotes": {
+        "present": true,
+        "disabled": false
+      },
+      "openChat": {
+        "present": true,
+        "disabled": false
+      },
+      "entryButtons": []
+    },
+    "chat2": {
+      "id": "chat-2",
+      "display": "block",
+      "left": 585.3125,
+      "top": 395.953125,
+      "width": 164.234375,
+      "height": 51.953125,
+      "inputPresent": true,
+      "inputEmpty": true,
+      "bannerPresent": true,
+      "bannerText": "DEMO MODE \u2014 no key (proxy & direct)",
+      "userMsgs": 0,
+      "assistantMsgs": 0
+    },
+    "chat2_on_screen": true,
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ]
+  },
+  "demo_flow": {
+    "user_row_text": "YOU: Hello JARVIS",
+    "growth_lengths": [
+      71,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195,
+      195
+    ],
+    "reply_text": "JARVIS: JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model.",
+    "completed_text": "JARVIS: JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model.",
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ]
+  },
+  "persistence": {
+    "stored_after_debounce": "[{\"id\":\"user-1\",\"role\":\"user\",\"content\":\"Hello JARVIS\",\"timestamp\":1787008039149},{\"id\":\"assistant-2\",\"role\":\"assistant\",\"content\":\"JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model.\",\"timestamp\":1787008039149}]",
+    "user_msgs_after_reload": 1,
+    "assistant_msgs_after_reload": 1,
+    "first_user_after_reload": "YOU: Hello JARVIS"
+  },
+  "post_reload": {
+    "window_ids": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "windows_on_screen": 4,
+    "live_tracks": 1
+  },
+  "close_probe": {
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ],
+    "chat1_gone": true,
+    "stored_chat": "[{\"id\":\"user-1\",\"role\":\"user\",\"content\":\"Hello JARVIS\",\"timestamp\":1787008039149},{\"id\":\"assistant-2\",\"role\":\"assistant\",\"content\":\"JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model.\",\"timestamp\":1787008039149},{\"id\":\"user-3\",\"role\":\"user\",\"content\":\"m9 close flush 3c526aee\",\"timestamp\":1787008069162},{\"id\":\"assistant-4\",\"role\":\"assistant\",\"content\":\"JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model.\",\"timestamp\":1787008069162}]",
+    "windows_after_close": [
+      {
+        "id": "dashboard-1",
+        "display": "block"
+      },
+      {
+        "id": "notes-1",
+        "display": "block"
+      },
+      {
+        "id": "search-1",
+        "display": "block"
+      }
+    ],
+    "marker": "m9 close flush 3c526aee"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 1,
+    "wsPort": 4001
+  },
+  "backend_health_restart": {
+    "status": "ok",
+    "uptimeSec": 0,
+    "wsPort": 4001
+  },
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": 4,
+  "hud_sync_page1": "connected",
+  "hud_users_page1": "1",
+  "hud_sync_offline": "offline",
+  "hud_users_offline": "0",
+  "hud_users_after_b": "2",
+  "hud_users_after_b_left": "1",
+  "hud_users_reconnect": "1",
+  "hud_users_with_c": "2",
+  "reconnected": true,
+  "b_snapshot_users": 2,
+  "b_snapshot_windows": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "b_id": "909e5204-62d0-4d0b-844d-d59b6eb10594",
+  "page_user_id": "531743b4-c69e-41aa-8be1-6e93ecea6a0c",
+  "window_sync": {
+    "type": "windowSync",
+    "data": {
+      "id": "notes-2",
+      "title": "Notes",
+      "owner": "531743b4-c69e-41aa-8be1-6e93ecea6a0c",
+      "position": [
+        1.85,
+        -0.85,
+        0.2
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 5,
+      "lastModified": 1787008717719
+    }
+  },
+  "close_snapshot_windows": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "handsync_lines": [
+    "[log] [Sync] handSync userId=909e5204-62d0-4d0b-844d-d59b6eb10594 hands=1"
+  ],
+  "handsync_silent_before": true,
+  "user_joined_lines": [
+    "[log] [Sync] userJoined userId=909e5204-62d0-4d0b-844d-d59b6eb10594"
+  ],
+  "user_left_lines": [
+    "[log] [Sync] userLeft userId=909e5204-62d0-4d0b-844d-d59b6eb10594"
+  ],
+  "offline_boot_windows": [
+    "dashboard-1",
+    "notes-1",
+    "chat-1",
+    "search-1"
+  ],
+  "boot_line_hits": 4,
+  "ws_urls_total": [
+    "ws://localhost:5173/?token=zvmGZnJxeqD_",
+    "ws://localhost:4001/"
+  ],
+  "ws_urls_offline_page": [
+    "ws://localhost:5173/?token=zvmGZnJxeqD_",
+    "ws://localhost:4001/"
+  ],
+  "offline_ws_attempts_at_boundary": 0,
+  "fps_logged": [
+    43,
+    42,
+    48,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    38,
+    58,
+    59,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 59,
+  "latency_avgs_ms": [
+    2043,
+    216,
+    215,
+    214,
+    215,
+    218,
+    217,
+    214,
+    219,
+    218,
+    217,
+    218,
+    218,
+    216,
+    214,
+    219,
+    218,
+    219,
+    2139,
+    216,
+    218,
+    216,
+    224,
+    217,
+    223,
+    219,
+    217,
+    218
+  ],
+  "latency_min_avg": 214,
+  "latency_line_count": 28,
+  "cleanup_counts": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "perf_line_count": 8,
+  "perf_all_match": true,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_log_lines": [],
+  "live_tracks": 1,
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true
+}

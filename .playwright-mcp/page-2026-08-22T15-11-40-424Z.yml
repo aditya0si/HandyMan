@@ -1,0 +1,69 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e6]:
+    - generic [ref=f1e7]:
+      - generic [ref=f1e69]:
+        - text: News Board
+        - generic [ref=f1e9]: YOU
+      - generic [ref=f1e10]:
+        - button "Minimize News Board" [ref=f1e11] [cursor=pointer]: −
+        - button "Close News Board" [ref=f1e12] [cursor=pointer]: ✕
+    - generic [ref=f1e71]:
+      - generic:
+        - 'img "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances"'
+        - generic [ref=f1e13]: The Verge
+        - generic [ref=f1e16]: 1h ago
+      - generic [ref=f1e17]:
+        - generic [ref=f1e72]:
+          - 'heading "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances" [level=2] [ref=f1e73]'
+          - paragraph [ref=f1e74]: Apple expands spatial computing capabilities with panoramic virtual displays, ultra-low latency hand tracking, and advanced spatial audio modeling.
+        - generic [ref=f1e75]:
+          - link "Read Full Story ↗" [ref=f1e18] [cursor=pointer]:
+            - /url: https://www.apple.com/apple-vision-pro/
+          - generic [ref=f1e19]:
+            - button "◀" [ref=f1e20] [cursor=pointer]
+            - generic [ref=f1e21]:
+              - generic [ref=f1e22] [cursor=pointer]
+              - generic [ref=f1e23] [cursor=pointer]
+              - generic [ref=f1e24] [cursor=pointer]
+              - generic [ref=f1e25] [cursor=pointer]
+              - generic [ref=f1e26] [cursor=pointer]
+            - button "▶" [ref=f1e27] [cursor=pointer]
+  - generic [ref=f1e28]:
+    - generic [ref=f1e29]: GESTURES
+    - generic [ref=f1e76]: No hands detected
+  - button "Reset view" [ref=f1e31] [cursor=pointer]
+  - generic [ref=f1e32]:
+    - generic [ref=f1e33]: JARVIS · Milestone 15
+    - generic [ref=f1e35]:
+      - generic [ref=f1e36]: Camera
+      - generic [ref=f1e37]: active
+    - generic [ref=f1e38]:
+      - generic [ref=f1e39]: MediaPipe
+      - generic [ref=f1e40]: ready
+    - generic [ref=f1e41]:
+      - generic [ref=f1e42]: Hands
+      - generic [ref=f1e43]: "0"
+    - generic [ref=f1e44]:
+      - generic [ref=f1e45]: Windows
+      - generic [ref=f1e46]: "1"
+    - generic [ref=f1e47]:
+      - generic [ref=f1e48]: Gestures
+      - generic [ref=f1e49]: —
+    - generic [ref=f1e50]:
+      - generic [ref=f1e51]: FPS
+      - generic [ref=f1e52]: "1"
+    - generic [ref=f1e53]:
+      - generic [ref=f1e54]: Latency
+      - generic [ref=f1e55]: 77 ms
+    - generic [ref=f1e56]:
+      - generic [ref=f1e57]: Sync
+      - generic [ref=f1e58]: connected
+    - generic [ref=f1e59]:
+      - generic [ref=f1e60]: Users
+      - generic [ref=f1e61]: "1"
+    - generic [ref=f1e62]:
+      - generic [ref=f1e63]: Errors
+      - generic [ref=f1e64]: "0"
+    - generic [ref=f1e65]:
+      - generic [ref=f1e66]: Remote
+      - generic [ref=f1e67]: "0"

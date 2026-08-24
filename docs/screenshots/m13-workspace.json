@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "windows": [
+    {
+      "id": "notes-2",
+      "title": "Notes",
+      "owner": "",
+      "position": [
+        1.85,
+        -0.85,
+        0.2
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 5,
+      "lastModified": 1787008287548
+    },
+    {
+      "id": "dashboard-1",
+      "title": "Dashboard",
+      "owner": "ba03a30a-91f5-437f-804c-94be7c77befe",
+      "position": [
+        -1.6,
+        0.75,
+        0.4
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 6,
+      "lastModified": 1787008287548
+    },
+    {
+      "id": "notes-1",
+      "title": "Notes",
+      "owner": "ba03a30a-91f5-437f-804c-94be7c77befe",
+      "position": [
+        1.6,
+        -0.65,
+        0.2
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 2,
+      "lastModified": 1787008287548
+    },
+    {
+      "id": "search-1",
+      "title": "Web Search",
+      "owner": "ba03a30a-91f5-437f-804c-94be7c77befe",
+      "position": [
+        -1.9,
+        -0.85,
+        0.1
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 4,
+      "lastModified": 1787008287548
+    },
+    {
+      "id": "chat-1",
+      "title": "LLM Chat",
+      "owner": "ba03a30a-91f5-437f-804c-94be7c77befe",
+      "position": [
+        0,
+        0,
+        0.25
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 3,
+      "lastModified": 1787008287548
+    }
+  ]
+}

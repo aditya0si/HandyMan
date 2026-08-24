@@ -1,0 +1,139 @@
+navigating to http://localhost:5173
+runtime: {
+  "canvases": 4,
+  "canvasSizes": [
+    [
+      1280,
+      800
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      640,
+      360
+    ],
+    [
+      640,
+      360
+    ]
+  ],
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 17.828345,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "gestureDebugPresent": true,
+  "gestureDebugVisible": true,
+  "gestureDebugText": "GESTURES\nNo hands detected",
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:30:58\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n227 ms\nSync\noffline\nUsers\n1\nErrors\n0\nRemote\n0"
+}
+screenshot 1280x800, top colors: [(218404, (0, 135, 0)), (148323, (6, 13, 31)), (93649, (5, 12, 30)), (54682, (5, 14, 32)), (52592, (5, 13, 31))]
+non-background pixels: 1024000
+
+=== SUMMARY ===
+{
+  "scene_canvases": 4,
+  "canvas_sizes": [
+    [
+      1280,
+      800
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      640,
+      360
+    ],
+    [
+      640,
+      360
+    ]
+  ],
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.828345,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "fps_logged": [
+    36,
+    40,
+    58,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4
+  ],
+  "fps_max": 58,
+  "latency_avgs_ms": [
+    2720,
+    291,
+    292,
+    295,
+    288,
+    295,
+    297,
+    299,
+    247,
+    227
+  ],
+  "latency_min_avg": 227,
+  "latency_line_count": 10,
+  "cleanup_logs": [
+    "[log] [CameraCapture] cleanup: capture stopped, tracks released",
+    "[log] [HandTracker] cleanup: camera stopped, hands solution closed"
+  ],
+  "cdn_asset_count": 6,
+  "cdn_assets": [
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hand_landmark_full.tflite",
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands_solution_packed_assets_loader.js",
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands_solution_simd_wasm_bin.js",
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.binarypb",
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands_solution_packed_assets.data",
+    "https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands_solution_simd_wasm_bin.wasm"
+  ],
+  "page_errors": [],
+  "console_errors": [],
+  "non_bg_pixels": 1024000,
+  "gesture_panel": {
+    "present": true,
+    "visible": true,
+    "text": "GESTURES\nNo hands detected",
+    "no_hands_state": true,
+    "hud_has_gestures_row": true,
+    "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:30:58\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n227 ms\nSync\noffline\nUsers\n1\nErrors\n0\nRemote\n0",
+    "gesture_log_lines": []
+  }
+}
+
+=== CHECKS ===
+  PASS  a: zero console errors and zero page errors
+  PASS  b: gesture-debug panel shows 'No hands detected'
+  PASS  c: HUD contains 'Gestures' row
+  PASS  d: latency >= 2 lines, min avg in 150-260ms, < 300ms
+  PASS  e: max FPS >= 30
+  PASS  f: exactly one CameraCapture and one HandTracker cleanup
+  PASS  g: no gesture log lines (no hands on fake webcam)
+  PASS  h: exactly 1 live video track
+OVERALL: PASS
+
+EXIT 0

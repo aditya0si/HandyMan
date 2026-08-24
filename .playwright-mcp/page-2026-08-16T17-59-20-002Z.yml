@@ -1,0 +1,80 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e74]: Dashboard
+      - generic [ref=e8]:
+        - button "Minimize Dashboard" [ref=e9] [cursor=pointer]: −
+        - button "Close Dashboard" [ref=e10] [cursor=pointer]: ✕
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e12]: TIME
+        - generic [ref=e13]: 23:29:19
+      - generic [ref=e77]:
+        - generic [ref=e14]: CPU
+        - generic [ref=e15]: 16 cores
+      - generic [ref=e78]:
+        - generic [ref=e16]: MEM
+        - generic [ref=e17]: 16 GB
+      - generic [ref=e79]:
+        - generic [ref=e18]: HEAP
+        - generic [ref=e19]: 45.7 MB
+      - generic [ref=e80]:
+        - generic [ref=e20]: NET
+        - generic [ref=e21]: online
+      - generic [ref=e81]:
+        - button "+ Dashboard" [ref=e22] [cursor=pointer]
+        - button "+ Notes" [ref=e23] [cursor=pointer]
+        - button "+ LLM Chat" [ref=e24] [cursor=pointer]
+        - button "Search — M10" [disabled] [ref=e25]
+      - generic [ref=e82]:
+        - button "Max" [ref=e26] [cursor=pointer]
+        - button "Min" [ref=e27] [cursor=pointer]
+        - button "Close" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e83]: Notes
+      - generic [ref=e31]:
+        - button "Minimize Notes" [ref=e32] [cursor=pointer]: −
+        - button "Close Notes" [ref=e33] [cursor=pointer]: ✕
+    - textbox "Type notes here — saved locally per window…" [ref=e35]: eyeball-marker
+  - generic [ref=e36]:
+    - generic [ref=e37]:
+      - generic [ref=e84]: LLM Chat
+      - generic [ref=e38]:
+        - button "Minimize LLM Chat" [ref=e39] [cursor=pointer]: −
+        - button "Close LLM Chat" [ref=e40] [cursor=pointer]: ✕
+    - generic [ref=e85]:
+      - generic [ref=e42]: DEMO MODE — no API key
+      - generic [ref=e43]:
+        - generic [ref=e86]: "YOU: Hello JARVIS"
+        - generic [ref=e87]: "JARVIS: JARVIS demo reply: no Gemini API key is configured, so this is a canned answer. Create apps/frontend/.env.local with VITE_GEMINI_API_KEY (README, Milestone 9) to chat with the real model."
+      - generic [ref=e88]:
+        - textbox "Ask JARVIS…" [ref=e44]
+        - button "Send" [disabled] [ref=e45]
+  - generic [ref=e46]:
+    - generic [ref=e47]: GESTURES
+    - generic [ref=e89]: No hands detected
+  - button "Reset view" [ref=e49] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: JARVIS · Milestone 9
+    - generic [ref=e52]:
+      - generic [ref=e53]: Camera
+      - generic [ref=e54]: active
+    - generic [ref=e55]:
+      - generic [ref=e56]: MediaPipe
+      - generic [ref=e57]: ready
+    - generic [ref=e58]:
+      - generic [ref=e59]: Hands
+      - generic [ref=e60]: "0"
+    - generic [ref=e61]:
+      - generic [ref=e62]: Windows
+      - generic [ref=e63]: "3"
+    - generic [ref=e64]:
+      - generic [ref=e65]: Gestures
+      - generic [ref=e66]: —
+    - generic [ref=e67]:
+      - generic [ref=e68]: FPS
+      - generic [ref=e69]: "89"
+    - generic [ref=e70]:
+      - generic [ref=e71]: Latency
+      - generic [ref=e72]: 26 ms

@@ -1,0 +1,93 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e74]: Dashboard
+      - generic [ref=e8]:
+        - button "Minimize Dashboard" [ref=e9] [cursor=pointer]: −
+        - button "Close Dashboard" [ref=e10] [cursor=pointer]: ✕
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e12]: TIME
+        - generic [ref=e13]: 23:32:03
+      - generic [ref=e77]:
+        - generic [ref=e14]: CPU
+        - generic [ref=e15]: 16 cores
+      - generic [ref=e78]:
+        - generic [ref=e16]: MEM
+        - generic [ref=e17]: 16 GB
+      - generic [ref=e79]:
+        - generic [ref=e18]: HEAP
+        - generic [ref=e19]: 49.8 MB
+      - generic [ref=e80]:
+        - generic [ref=e20]: NET
+        - generic [ref=e21]: online
+      - generic [ref=e81]:
+        - button "+ Dashboard" [ref=e22] [cursor=pointer]
+        - button "+ Notes" [ref=e23] [cursor=pointer]
+        - button "+ LLM Chat" [ref=e24] [cursor=pointer]
+        - button "Search — M10" [disabled] [ref=e25]
+      - generic [ref=e82]:
+        - button "Max" [ref=e26] [cursor=pointer]
+        - button "Min" [ref=e27] [cursor=pointer]
+        - button "Close" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e83]: Notes
+      - generic [ref=e31]:
+        - button "Minimize Notes" [ref=e32] [cursor=pointer]: −
+        - button "Close Notes" [ref=e33] [cursor=pointer]: ✕
+    - textbox "Type notes here — saved locally per window…" [ref=e35]: eyeball-marker
+  - generic [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]: LLM Chat
+      - generic [ref=e93]:
+        - button "Minimize LLM Chat" [ref=e94] [cursor=pointer]: −
+        - button "Close LLM Chat" [ref=e95] [cursor=pointer]: ✕
+    - generic [ref=e97]:
+      - generic [ref=e98]: DEMO MODE — no API key
+      - generic [ref=e100]:
+        - textbox "Ask JARVIS…" [ref=e101]
+        - button "Send" [disabled] [ref=e102]
+  - generic [ref=e46]:
+    - generic [ref=e47]: GESTURES
+    - generic [ref=e107]:
+      - generic [ref=e108]: Left
+      - generic [ref=e109]: OPEN
+      - generic [ref=e110]: c 0.90 · i 1.00
+    - generic [ref=e111]:
+      - generic [ref=e112]: Left
+      - generic [ref=e113]: NONE
+      - generic [ref=e114]: c 0.00 · i 0.00
+    - generic [ref=e115]:
+      - generic [ref=e116]: Left
+      - generic [ref=e117]: OPEN
+      - generic [ref=e118]: c 0.90 · i 1.00
+    - generic [ref=e119]:
+      - generic [ref=e120]: Left
+      - generic [ref=e121]: GRAB
+      - generic [ref=e122]: c 0.90 · i 0.37
+    - generic [ref=e123]: No hands detected
+  - button "Reset view" [ref=e49] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: JARVIS · Milestone 9
+    - generic [ref=e52]:
+      - generic [ref=e53]: Camera
+      - generic [ref=e54]: active
+    - generic [ref=e55]:
+      - generic [ref=e56]: MediaPipe
+      - generic [ref=e57]: ready
+    - generic [ref=e58]:
+      - generic [ref=e59]: Hands
+      - generic [ref=e60]: "0"
+    - generic [ref=e61]:
+      - generic [ref=e62]: Windows
+      - generic [ref=e63]: "3"
+    - generic [ref=e64]:
+      - generic [ref=e65]: Gestures
+      - generic [ref=e66]: —
+    - generic [ref=e67]:
+      - generic [ref=e68]: FPS
+      - generic [ref=e69]: "55"
+    - generic [ref=e70]:
+      - generic [ref=e71]: Latency
+      - generic [ref=e72]: 31 ms

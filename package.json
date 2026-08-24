@@ -1,0 +1,24 @@
+{
+  "name": "jarvis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JARVIS: webcam gesture-controlled spatial computing platform",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:frontend": "npm run dev --workspace @jarvis/frontend",
+    "dev:backend": "npm run dev --workspace @jarvis/backend",
+    "build": "npm run build --workspace @jarvis/shared && npm run build --workspace @jarvis/frontend && npm run build --workspace @jarvis/backend",
+    "build:shared": "npm run build --workspace @jarvis/shared",
+    "build:frontend": "npm run build --workspace @jarvis/frontend",
+    "build:backend": "npm run build --workspace @jarvis/backend",
+    "test": "npm run test --workspace @jarvis/frontend && npm run test --workspace @jarvis/backend",
+    "test:e2e": "npm run test:e2e --workspace @jarvis/frontend",
+    "typecheck": "npm run typecheck --workspace @jarvis/backend"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

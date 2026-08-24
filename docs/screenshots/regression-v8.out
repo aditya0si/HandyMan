@@ -1,0 +1,515 @@
+navigating to http://localhost:5173
+runtime #1: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 17.342467,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:04\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:04\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "resetButton": {
+    "present": true
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "notes1Value": "",
+  "dashRows": {
+    "clock": {
+      "present": true,
+      "text": "TIME\n04:36:04"
+    },
+    "cpu": {
+      "present": true,
+      "text": "CPU\n16 cores"
+    },
+    "memory": {
+      "present": true,
+      "text": "MEM\n16 GB"
+    },
+    "heap": {
+      "present": true,
+      "text": "HEAP\n22.0 MB"
+    },
+    "network": {
+      "present": true,
+      "text": "NET\nonline"
+    }
+  },
+  "launcher": {
+    "openDashboard": {
+      "present": true,
+      "disabled": false
+    },
+    "openNotes": {
+      "present": true,
+      "disabled": false
+    }
+  }
+}
+runtime #2: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 13.798857,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:28\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:28\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "resetButton": {
+    "present": true
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "notes1Value": "m8 persistence e8c5f8d1",
+  "dashRows": {
+    "clock": {
+      "present": true,
+      "text": "TIME\n04:36:28"
+    },
+    "cpu": {
+      "present": true,
+      "text": "CPU\n16 cores"
+    },
+    "memory": {
+      "present": true,
+      "text": "MEM\n16 GB"
+    },
+    "heap": {
+      "present": true,
+      "text": "HEAP\n22.0 MB"
+    },
+    "network": {
+      "present": true,
+      "text": "NET\nonline"
+    }
+  },
+  "launcher": {
+    "openDashboard": {
+      "present": true,
+      "disabled": false
+    },
+    "openNotes": {
+      "present": true,
+      "disabled": false
+    }
+  }
+}
+
+=== SUMMARY ===
+{
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.342467,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floating_windows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:04\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:04\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "titles_visible": true,
+  "positions_distinct": true,
+  "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:36:04\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "reset_button": {
+    "present": true
+  },
+  "fps_logged": [
+    43,
+    45,
+    46,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    11,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 46,
+  "latency_avgs_ms": [
+    2045,
+    217,
+    219,
+    215,
+    219,
+    217,
+    220,
+    220,
+    216,
+    222,
+    218,
+    215,
+    213,
+    214,
+    219,
+    222,
+    219,
+    216,
+    218,
+    223,
+    1999,
+    213,
+    224,
+    218,
+    217,
+    219,
+    223,
+    218,
+    217,
+    218,
+    219,
+    218,
+    214,
+    216,
+    218,
+    224,
+    217,
+    218,
+    219,
+    217,
+    222,
+    218,
+    212
+  ],
+  "latency_min_avg": 212,
+  "latency_line_count": 43,
+  "cleanup_counts": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "perf_line_count": 10,
+  "perf_all_match": true,
+  "cdn_asset_count": 12,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_log_lines": [],
+  "notes1_value_first_boot": "",
+  "notes1_value_after_reload": "m8 persistence e8c5f8d1",
+  "notes1_marker": "m8 persistence e8c5f8d1",
+  "clock_ticker": {
+    "before": "TIME\n04:36:04",
+    "after": "TIME\n04:36:05"
+  },
+  "launcher_probe": {
+    "pre": {
+      "openDashboard": {
+        "present": true,
+        "disabled": false
+      },
+      "openNotes": {
+        "present": true,
+        "disabled": false
+      }
+    },
+    "notes2_on_screen": true,
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ]
+  },
+  "persistence": {
+    "stored_a": "\"m8 persistence e8c5f8d1\"",
+    "stored_b": "\"m8 second notes f32b28c2\"",
+    "stored_a_after_b": "\"m8 persistence e8c5f8d1\""
+  },
+  "post_reload": {
+    "window_ids": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "windows_on_screen": 4,
+    "live_tracks": 1
+  },
+  "appctl_probe": {
+    "maximize_errors_before": [
+      0,
+      0
+    ],
+    "maximize_errors_after": [
+      0,
+      0
+    ],
+    "dashboard_after_max": {
+      "present": true,
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    "minimize_errors_before": [
+      0,
+      0
+    ],
+    "minimize_errors_after": [
+      0,
+      0
+    ],
+    "dashboard_display_after_min": "none"
+  },
+  "close_probe": {
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ],
+    "notes2_gone": true,
+    "stored_c": "\"m8 close flush 0d6f798c\"",
+    "windows_after_close": [
+      {
+        "id": "dashboard-1",
+        "display": "block"
+      },
+      {
+        "id": "notes-1",
+        "display": "block"
+      },
+      {
+        "id": "chat-1",
+        "display": "block"
+      },
+      {
+        "id": "search-1",
+        "display": "block"
+      }
+    ]
+  }
+}
+
+=== CHECKS ===
+  PASS  a: zero console errors and zero page errors (whole session, both page loads)
+  PASS  b: boot scene invariant: >= 2 app windows incl. dashboard-1 + notes-1, all fully on screen
+  PASS  c: boot titles visible: Dashboard and Notes in window text
+  PASS  d: pairwise-distinct projected positions at boot (tuples, lefts, tops)
+  PASS  e: HUD title present, Camera active, MediaPipe ready, Windows row >= 2
+  PASS  f: Dashboard stats render with values
+  PASS  g: Notes textarea present and empty at first boot (fresh profile)
+  PASS  h: live ticker: dash-clock advances across a 1.2 s sample pair
+  PASS  i: launcher: open-notes click adds notes-2 fully on screen; zero new errors
+  PASS  j: notes persist: debounce writes jarvis:note:notes-1; reload restores the textarea value (localStorage survived)
+  PASS  k: two notes windows are independent (distinct keys, no clobbering)
+  PASS  l: AppContext controls: maximize error-free on a visible window; minimize hides it
+  PASS  m: chrome close removes the window AND the unmount flush saved the mid-debounce text
+  PASS  n: >= 1 [Performance] line, every line matching the M4 four-key format
+  PASS  o: latency >= 2 lines, min avg in 150-260ms, < 300ms
+  PASS  p: cleanup counts balanced across the session (CameraCapture == HandTracker, 2-4 each with the reload)
+  PASS  q: exactly 1 live video track (post-reload introspection)
+  PASS  r: max logged FPS >= 30 (boot window)
+  PASS  s: no gesture log lines (no hands on fake webcam)
+OVERALL: PASS
+
+EXIT 0

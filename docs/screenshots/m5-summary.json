@@ -1,0 +1,143 @@
+{
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.237292,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floating_windows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:34:41\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:34:41\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "titles_visible": true,
+  "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:34:41\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n220 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "fps_logged": [
+    44,
+    44,
+    59,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 59,
+  "latency_avgs_ms": [
+    2079,
+    217,
+    217,
+    218,
+    221,
+    215,
+    211,
+    217,
+    222,
+    219,
+    220
+  ],
+  "latency_min_avg": 211,
+  "latency_line_count": 11,
+  "cleanup_counts": {
+    "camera_capture": 1,
+    "hand_tracker": 1
+  },
+  "perf_line_count": 3,
+  "perf_all_match": true,
+  "cdn_asset_count": 6,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_panel": {
+    "present": true,
+    "visible": true,
+    "no_hands_state": true
+  },
+  "gesture_log_lines": []
+}

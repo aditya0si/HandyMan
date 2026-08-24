@@ -1,0 +1,172 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e6]:
+    - generic [ref=f1e7]:
+      - generic [ref=f1e87]:
+        - text: News Board
+        - generic [ref=f1e9]: YOU
+      - generic [ref=f1e10]:
+        - button "Minimize News Board" [ref=f1e11] [cursor=pointer]: −
+        - button "Close News Board" [ref=f1e12] [cursor=pointer]: ✕
+    - generic [ref=f1e89]:
+      - generic:
+        - 'img "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances"'
+        - generic [ref=f1e13]: The Verge
+        - generic [ref=f1e16]: 1h ago
+      - generic [ref=f1e17]:
+        - generic [ref=f1e90]:
+          - 'heading "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances" [level=2] [ref=f1e91]'
+          - paragraph [ref=f1e92]: Apple expands spatial computing capabilities with panoramic virtual displays, ultra-low latency hand tracking, and advanced spatial audio modeling.
+        - generic [ref=f1e93]:
+          - link "Read Full Story ↗" [ref=f1e18] [cursor=pointer]:
+            - /url: https://www.apple.com/apple-vision-pro/
+          - generic [ref=f1e19]:
+            - button "◀" [ref=f1e20] [cursor=pointer]
+            - generic [ref=f1e21]:
+              - generic [ref=f1e22] [cursor=pointer]
+              - generic [ref=f1e23] [cursor=pointer]
+              - generic [ref=f1e24] [cursor=pointer]
+              - generic [ref=f1e25] [cursor=pointer]
+              - generic [ref=f1e26] [cursor=pointer]
+            - button "▶" [ref=f1e27] [cursor=pointer]
+  - generic [ref=f1e28]:
+    - generic [ref=f1e29]:
+      - generic [ref=f1e94]:
+        - text: Weather
+        - generic [ref=f1e31]: YOU
+      - generic [ref=f1e32]:
+        - button "Minimize Weather" [ref=f1e33] [cursor=pointer]: −
+        - button "Close Weather" [ref=f1e34] [cursor=pointer]: ✕
+    - generic [ref=f1e35]:
+      - generic [ref=f1e96]:
+        - generic [ref=f1e97] [cursor=pointer]
+        - generic [ref=f1e98] [cursor=pointer]
+        - generic [ref=f1e99] [cursor=pointer]
+        - generic [ref=f1e100] [cursor=pointer]
+      - generic [ref=f1e101]:
+        - generic [ref=f1e102]: ☁
+        - generic [ref=f1e103]:
+          - generic [ref=f1e104]: 22°
+          - generic [ref=f1e105]: Overcast
+      - generic [ref=f1e106]:
+        - generic [ref=f1e107]:
+          - text: H
+          - generic [ref=f1e108]: 22°
+        - generic [ref=f1e109]:
+          - text: L
+          - generic [ref=f1e110]: 13°
+        - generic [ref=f1e111]:
+          - text: Wind
+          - generic [ref=f1e112]: 9 km/h
+        - generic [ref=f1e113]:
+          - text: Hum
+          - generic [ref=f1e114]: 31%
+      - generic [ref=f1e115]:
+        - generic [ref=f1e116]:
+          - generic [ref=f1e117]: S
+          - generic [ref=f1e118]: ☁
+          - generic [ref=f1e119]: 22°
+          - generic [ref=f1e120]: 13°
+        - generic [ref=f1e121]:
+          - generic [ref=f1e122]: S
+          - generic [ref=f1e123]: ☁
+          - generic [ref=f1e124]: 23°
+          - generic [ref=f1e125]: 15°
+        - generic [ref=f1e126]:
+          - generic [ref=f1e127]: M
+          - generic [ref=f1e128]: ◌
+          - generic [ref=f1e129]: 22°
+          - generic [ref=f1e130]: 15°
+        - generic [ref=f1e131]:
+          - generic [ref=f1e132]: T
+          - generic [ref=f1e133]: ◌
+          - generic [ref=f1e134]: 26°
+          - generic [ref=f1e135]: 17°
+        - generic [ref=f1e136]:
+          - generic [ref=f1e137]: W
+          - generic [ref=f1e138]: ◌
+          - generic [ref=f1e139]: 25°
+          - generic [ref=f1e140]: 19°
+  - generic [ref=f1e37]:
+    - generic [ref=f1e38]:
+      - generic [ref=f1e141]:
+        - text: Markets
+        - generic [ref=f1e40]: YOU
+      - generic [ref=f1e41]:
+        - button "Minimize Markets" [ref=f1e42] [cursor=pointer]: −
+        - button "Close Markets" [ref=f1e43] [cursor=pointer]: ✕
+    - generic [ref=f1e44]:
+      - generic [ref=f1e143]:
+        - generic:
+          - generic: BTC
+          - generic: Bitcoin
+        - generic [ref=f1e146]:
+          - generic [ref=f1e147]: $77,024.00
+          - generic [ref=f1e148]: +0.10%
+      - generic [ref=f1e149]:
+        - generic:
+          - generic: ETH
+          - generic: Ethereum
+        - generic [ref=f1e152]:
+          - generic [ref=f1e153]: $2,411.16
+          - generic [ref=f1e154]: +1.50%
+      - generic [ref=f1e155]:
+        - generic:
+          - generic: USDT
+          - generic: Tether
+        - generic [ref=f1e158]:
+          - generic [ref=f1e159]: $0.9998
+          - generic [ref=f1e160]: 0.00%
+      - generic [ref=f1e161]:
+        - generic:
+          - generic: BNB
+          - generic: BNB
+        - generic [ref=f1e164]:
+          - generic [ref=f1e165]: $689.75
+          - generic [ref=f1e166]: +2.00%
+      - generic [ref=f1e167]:
+        - generic [ref=f1e168]:
+          - generic [ref=f1e169]: XRP
+          - generic [ref=f1e170]: XRP
+        - generic [ref=f1e173]:
+          - generic [ref=f1e174]: $1.44
+          - generic [ref=f1e175]: +3.10%
+      - generic [ref=f1e176]: LIVE · COINGECKO · TOP 5 BY MARKET CAP
+  - generic [ref=f1e46]:
+    - generic [ref=f1e47]: GESTURES
+    - generic [ref=f1e48]: No hands detected
+  - button "Reset view" [ref=f1e49] [cursor=pointer]
+  - generic [ref=f1e50]:
+    - generic [ref=f1e51]: JARVIS · Milestone 15
+    - generic [ref=f1e53]:
+      - generic [ref=f1e54]: Camera
+      - generic [ref=f1e55]: active
+    - generic [ref=f1e56]:
+      - generic [ref=f1e57]: MediaPipe
+      - generic [ref=f1e58]: ready
+    - generic [ref=f1e59]:
+      - generic [ref=f1e60]: Hands
+      - generic [ref=f1e61]: "0"
+    - generic [ref=f1e62]:
+      - generic [ref=f1e63]: Windows
+      - generic [ref=f1e64]: "3"
+    - generic [ref=f1e65]:
+      - generic [ref=f1e66]: Gestures
+      - generic [ref=f1e67]: —
+    - generic [ref=f1e68]:
+      - generic [ref=f1e69]: FPS
+      - generic [ref=f1e70]: "1"
+    - generic [ref=f1e71]:
+      - generic [ref=f1e72]: Latency
+      - generic [ref=f1e73]: 27 ms
+    - generic [ref=f1e74]:
+      - generic [ref=f1e75]: Sync
+      - generic [ref=f1e76]: connected
+    - generic [ref=f1e77]:
+      - generic [ref=f1e78]: Users
+      - generic [ref=f1e79]: "1"
+    - generic [ref=f1e80]:
+      - generic [ref=f1e81]: Errors
+      - generic [ref=f1e82]: "0"
+    - generic [ref=f1e83]:
+      - generic [ref=f1e84]: Remote
+      - generic [ref=f1e85]: "0"

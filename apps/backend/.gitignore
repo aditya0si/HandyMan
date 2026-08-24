@@ -1,0 +1,4 @@
+# M13: the workspace persistence file is RUNTIME data (created by the
+# backend; verifiers reset it for clean-room runs). Keep the dir via .gitkeep.
+data/*
+!data/.gitkeep

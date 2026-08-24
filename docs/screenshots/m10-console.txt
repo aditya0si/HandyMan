@@ -1,0 +1,171 @@
+[debug] [vite] connecting...
+[debug] [vite] connected.
+[info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] cleanup: capture stopped, tracks released
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[warning] WebGL: CONTEXT_LOST_WEBGL: loseContext: context lost
+[warning] WebGL: CONTEXT_LOST_WEBGL: loseContext: context lost
+[log] THREE.WebGLRenderer: Context Lost.
+[log] [CameraCapture] stream resolved after unmount; tracks stopped
+[log] [CameraCapture] stream active (1 live track(s), 1 video)
+[log] [HandTracker] cleanup: camera stopped, hands solution closed
+[log] [Scene3D] FPS: 43
+[log] THREE.WebGLRenderer: Context Restored.
+[warning] [.WebGL-0x419c001b5800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x419c001b5800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x419c001b5800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x419c001b5800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[log] [Scene3D] FPS: 43
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Sync] offline
+[log] [HandTracker] MediaPipe Hands model loaded from CDN
+[log] [Scene3D] FPS: 48
+[log] [CameraCapture] stream replaced by tracker camera; released
+[warning] I0000 00:00:1787008085.378000       1 gl_context_webgl.cc:151] Successfully created a WebGL context with major version 3 and handle 3
+[warning] I0000 00:00:1787008085.382000       1 gl_context.cc:359] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium)))
+[warning] W0000 00:00:1787008085.383000       1 gl_context.cc:1000] OpenGL error checking is disabled
+[log] [HandTracker] detection latency: avg 2026ms over 1 frame(s)
+[log] [App] Hands detected: 0 (none)
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Performance] handDetectionLatency=2026ms renderFPS=48 gestureRecognitionLatency=0.4ms interactionLatency=0.0ms
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 214ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 221ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 212ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=212ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 222ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 220ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[debug] [vite] connecting...
+[debug] [vite] connected.
+[info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] cleanup: capture stopped, tracks released
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] stream resolved after unmount; tracks stopped
+[log] [CameraCapture] stream active (1 live track(s), 1 video)
+[log] [HandTracker] cleanup: camera stopped, hands solution closed
+[log] [HandTracker] MediaPipe Hands model loaded from CDN
+[log] [CameraCapture] stream replaced by tracker camera; released
+[warning] I0000 00:00:1787008114.310000       1 gl_context_webgl.cc:151] Successfully created a WebGL context with major version 3 and handle 3
+[warning] I0000 00:00:1787008114.313000       1 gl_context.cc:359] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium)))
+[warning] W0000 00:00:1787008114.314000       1 gl_context.cc:1000] OpenGL error checking is disabled
+[log] [HandTracker] detection latency: avg 2080ms over 1 frame(s)
+[log] [App] Hands detected: 0 (none)
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Sync] offline
+[log] [Scene3D] FPS: 9
+[log] [HandTracker] detection latency: avg 223ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=223ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 221ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=221ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Performance] handDetectionLatency=218ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4

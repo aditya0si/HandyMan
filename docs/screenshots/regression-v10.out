@@ -1,0 +1,653 @@
+navigating to http://localhost:5173
+runtime #1: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 17.295052,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:19\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:19\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "resetButton": {
+    "present": true
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "notes1Value": "",
+  "dashRows": {
+    "clock": {
+      "present": true,
+      "text": "TIME\n04:38:19"
+    },
+    "cpu": {
+      "present": true,
+      "text": "CPU\n16 cores"
+    },
+    "memory": {
+      "present": true,
+      "text": "MEM\n16 GB"
+    },
+    "heap": {
+      "present": true,
+      "text": "HEAP\n22.0 MB"
+    },
+    "network": {
+      "present": true,
+      "text": "NET\nonline"
+    }
+  },
+  "search1": {
+    "banner": {
+      "present": true,
+      "disabled": false,
+      "value": null,
+      "text": "DEMO MODE \u2014 no keys (proxy & direct)"
+    },
+    "input": {
+      "present": true,
+      "disabled": false,
+      "value": "",
+      "text": ""
+    },
+    "submit": {
+      "present": true,
+      "disabled": true,
+      "value": "",
+      "text": "Search"
+    },
+    "status": {
+      "present": false,
+      "disabled": null,
+      "value": null,
+      "text": null
+    },
+    "empty": {
+      "present": false,
+      "disabled": null,
+      "value": null,
+      "text": null
+    },
+    "cards": 0,
+    "linkAttrs": []
+  },
+  "chat1": {
+    "banner": {
+      "present": true,
+      "disabled": false,
+      "value": null,
+      "text": "DEMO MODE \u2014 no key (proxy & direct)"
+    },
+    "input": {
+      "present": true,
+      "disabled": false,
+      "value": "",
+      "text": ""
+    },
+    "send": {
+      "present": true,
+      "disabled": true,
+      "value": "",
+      "text": "Send"
+    }
+  },
+  "launcher": {
+    "openDashboard": {
+      "present": true,
+      "disabled": false
+    },
+    "openNotes": {
+      "present": true,
+      "disabled": false
+    },
+    "openChat": {
+      "present": true,
+      "disabled": false
+    },
+    "openSearch": {
+      "present": true,
+      "disabled": false
+    },
+    "entryButtons": []
+  }
+}
+runtime #2: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 13.790563,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:47\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:47\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n219 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "resetButton": {
+    "present": true
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "notes1Value": "",
+  "dashRows": {
+    "clock": {
+      "present": true,
+      "text": "TIME\n04:38:47"
+    },
+    "cpu": {
+      "present": true,
+      "text": "CPU\n16 cores"
+    },
+    "memory": {
+      "present": true,
+      "text": "MEM\n16 GB"
+    },
+    "heap": {
+      "present": true,
+      "text": "HEAP\n22.0 MB"
+    },
+    "network": {
+      "present": true,
+      "text": "NET\nonline"
+    }
+  },
+  "search1": {
+    "banner": {
+      "present": true,
+      "disabled": false,
+      "value": null,
+      "text": "DEMO MODE \u2014 no keys (proxy & direct)"
+    },
+    "input": {
+      "present": true,
+      "disabled": false,
+      "value": "",
+      "text": ""
+    },
+    "submit": {
+      "present": true,
+      "disabled": true,
+      "value": "",
+      "text": "Search"
+    },
+    "status": {
+      "present": false,
+      "disabled": null,
+      "value": null,
+      "text": null
+    },
+    "empty": {
+      "present": false,
+      "disabled": null,
+      "value": null,
+      "text": null
+    },
+    "cards": 0,
+    "linkAttrs": []
+  },
+  "chat1": {
+    "banner": {
+      "present": true,
+      "disabled": false,
+      "value": null,
+      "text": "DEMO MODE \u2014 no key (proxy & direct)"
+    },
+    "input": {
+      "present": true,
+      "disabled": false,
+      "value": "",
+      "text": ""
+    },
+    "send": {
+      "present": true,
+      "disabled": true,
+      "value": "",
+      "text": "Send"
+    }
+  },
+  "launcher": {
+    "openDashboard": {
+      "present": true,
+      "disabled": false
+    },
+    "openNotes": {
+      "present": true,
+      "disabled": false
+    },
+    "openChat": {
+      "present": true,
+      "disabled": false
+    },
+    "openSearch": {
+      "present": true,
+      "disabled": false
+    },
+    "entryButtons": []
+  }
+}
+
+=== SUMMARY ===
+{
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.295052,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floating_windows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:19\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:19\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "titles_visible": true,
+  "positions_distinct": true,
+  "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:38:19\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "reset_button": {
+    "present": true
+  },
+  "fps_logged": [
+    43,
+    43,
+    48,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    9,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 48,
+  "latency_avgs_ms": [
+    2026,
+    216,
+    214,
+    221,
+    217,
+    219,
+    217,
+    216,
+    217,
+    218,
+    218,
+    217,
+    218,
+    212,
+    218,
+    218,
+    218,
+    219,
+    218,
+    217,
+    218,
+    222,
+    220,
+    2080,
+    223,
+    217,
+    219,
+    217,
+    221,
+    216,
+    217,
+    219,
+    219,
+    218,
+    219
+  ],
+  "latency_min_avg": 212,
+  "latency_line_count": 35,
+  "cleanup_counts": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "perf_line_count": 8,
+  "perf_all_match": true,
+  "cdn_asset_count": 12,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_log_lines": [],
+  "boot_line_hits": 4,
+  "search1_first_boot": {
+    "banner_present": true,
+    "banner_text": "DEMO MODE \u2014 no keys (proxy & direct)",
+    "input_present": true,
+    "input_empty": true,
+    "submit_present": true,
+    "submit_disabled": true,
+    "cards": 0,
+    "status_present": false,
+    "empty_present": false,
+    "link_attrs_present": 0
+  },
+  "launcher_probe": {
+    "pre": {
+      "openDashboard": {
+        "present": true,
+        "disabled": false
+      },
+      "openNotes": {
+        "present": true,
+        "disabled": false
+      },
+      "openChat": {
+        "present": true,
+        "disabled": false
+      },
+      "openSearch": {
+        "present": true,
+        "disabled": false
+      },
+      "entryButtons": []
+    },
+    "search2": {
+      "id": "search-2",
+      "display": "block",
+      "left": 390.34375,
+      "top": 488.25,
+      "width": 148.203125,
+      "height": 46.890625,
+      "inputPresent": true,
+      "inputEmpty": true,
+      "bannerPresent": true,
+      "cards": 0
+    },
+    "search2_on_screen": true,
+    "search2_gone": true,
+    "errors_after_close_search2": [
+      0,
+      0
+    ],
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ]
+  },
+  "query_flow": {
+    "cards_after_ws": 0,
+    "input_after_ws": "   ",
+    "prev_cards": 0,
+    "searching_observed": {
+      "submit_disabled": true,
+      "status_present": true
+    }
+  },
+  "demo_flow": {
+    "cards_found": 5,
+    "card_texts": [
+      "Spatial computing \u2014 Wikipedia (demo result 1)\nen.wikipedia.org\ndemo result 1: spatial computing is the use of digital technology to make physic\u2026",
+      "MediaPipe Hands \u2014 Google Developers (demo result 2)\ndevelopers.google.com\ndemo result 2: MediaPipe provides on-device hand-landmark detection that powers \u2026",
+      "three.js docs \u2014 JavaScript 3D library (demo result 3)\nthreejs.org\ndemo result 3: three.js is a lightweight 3D library for rendering scenes, camera\u2026",
+      "Custom Search JSON API overview (demo result 4)\ndevelopers.google.com\ndemo result 4: the Custom Search JSON API returns web results for a query using \u2026",
+      "WebXR Device API \u2014 MDN (demo result 5)\ndeveloper.mozilla.org\ndemo result 5: WebXR exposes augmented- and virtual-reality devices to the web, \u2026"
+    ],
+    "link_attrs": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Spatial_computing",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      {
+        "href": "https://developers.google.com/mediapipe",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      {
+        "href": "https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      {
+        "href": "https://developers.google.com/custom-search/v1/overview",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      {
+        "href": "https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      }
+    ],
+    "expansion_on": {
+      "present": true,
+      "longer": true,
+      "hasRawLink": true
+    },
+    "expansion_off": true,
+    "errors_before": [
+      0,
+      0
+    ],
+    "errors_after": [
+      0,
+      0
+    ]
+  },
+  "post_reload": {
+    "window_ids": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "windows_on_screen": 4,
+    "live_tracks": 1,
+    "search1_cards": 0
+  }
+}
+
+=== CHECKS ===
+  PASS  a: zero console errors and zero page errors (whole session)
+  PASS  b: boot scene exact: 4 app windows, ids exactly dashboard-1 + notes-1 + chat-1 + search-1, all fully on screen, boot console line says 4
+  PASS  c: boot titles visible: Dashboard, Notes, LLM Chat, and Web Search in window text
+  PASS  d: pairwise-distinct projected positions at boot (tuples, lefts, tops)
+  PASS  e: HUD title present (version-tolerant since M11), Camera active, MediaPipe ready, Windows = 4 at boot
+  PASS  f: launcher: launcher-open-search present and ENABLED; zero disabled placeholder entries; open-search adds search-2 fully on screen with independent state (own input + banner, no cards); closing it is error-free; zero new errors
+  PASS  g: demo mode: search-demo-banner present with text containing 'DEMO MODE' (no credentials on the default path)
+  PASS  h: query flow: search-input + native submit work; whitespace-only submit is a no-op (zero cards); submit disabled while searching or empty
+  PASS  i: canned results: 5 search-card rows render within the 5 s budget, each containing the 'demo result' marker
+  PASS  j: link affordance: every search-card-link has href starting https://, target=_blank, rel containing noopener (attributes only — never followed)
+  PASS  k: card expansion: native click toggles search-card-detail on (fuller snippet + raw link) and off
+  PASS  l: >= 1 [Performance] line, every line matching the M4 four-key format
+  PASS  m: latency >= 2 lines, min avg in 150-260ms, < 300ms
+  PASS  n: cleanup counts balanced across the session (CameraCapture == HandTracker, 2-4 each with the reload)
+  PASS  o: exactly 1 live video track (post-reload introspection)
+  PASS  p: max logged FPS >= 30 (boot window)
+  PASS  q: no gesture log lines (no hands on fake webcam)
+OVERALL: PASS
+
+EXIT 0

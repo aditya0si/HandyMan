@@ -1,0 +1,76 @@
+{
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 1,
+    "wsPort": 4001
+  },
+  "hud_a_boot": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:40:06\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n211 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+  "hud_b_boot": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:40:21\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n20.7 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n2\nLatency\n426 ms\nSync\nconnected\nUsers\n2\nErrors\n0\nRemote\n0",
+  "a_window_ids_boot": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "b_window_ids_boot": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "users_a_after_b": "2",
+  "users_a_poll_after_b_ok": true,
+  "b_has_notes2": true,
+  "b_notes2_badge": "\u25c8 REMOTE",
+  "remote_before": "0",
+  "remote_a_with_c": "1",
+  "remote_b_with_c": true,
+  "handsync_lines_a": [
+    "[log] [Sync] handSync userId=e3e73b93-a351-4295-9cc4-ea10aa397123 hands=1"
+  ],
+  "users_a_with_c": "3",
+  "users_a_with_c_poll_ok": true,
+  "users_a_after_c": "2",
+  "remote_a_after_c": "0",
+  "user_left_lines_a": [
+    "[log] [Sync] userLeft userId=e3e73b93-a351-4295-9cc4-ea10aa397123"
+  ],
+  "a_holo1_present": true,
+  "a_holo1_left_first": "626.916px",
+  "a_holo1_left_second": "557.829px",
+  "a_holo1_left_changed": true,
+  "a_holo1_badge": "\u25c8 REMOTE",
+  "a_dashboard1_badge": "\u25c8 YOU",
+  "errors_clean": true,
+  "console_errors_a": [],
+  "console_errors_b": [],
+  "page_errors": [],
+  "perf_line_count": 9,
+  "perf_all_match": true,
+  "latency_line_count": 36,
+  "latency_min_avg": 211,
+  "fps_max": 48,
+  "gesture_log_lines": [],
+  "live_tracks_a": 1,
+  "live_tracks_b": 1,
+  "cleanup_a": {
+    "camera": 1,
+    "tracker": 1
+  },
+  "cleanup_b": {
+    "camera": 1,
+    "tracker": 1
+  },
+  "boot_line_hits": 2,
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true,
+  "c_snapshot_users": 3,
+  "final_b_window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "holo-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ]
+}

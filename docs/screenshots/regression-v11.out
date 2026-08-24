@@ -1,0 +1,234 @@
+navigating to http://localhost:5173
+runtime #1: {
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:48:31\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "liveTracks": 1,
+  "videoTracks": 1
+}
+
+=== SUMMARY ===
+{
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 1,
+    "wsPort": 4001
+  },
+  "backend_health_restart": {
+    "status": "ok",
+    "uptimeSec": 0,
+    "wsPort": 4001
+  },
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": 4,
+  "hud_sync_page1": "connected",
+  "hud_users_page1": "1",
+  "hud_sync_offline": "offline",
+  "hud_users_offline": "0",
+  "hud_users_after_b": "2",
+  "hud_users_after_b_left": "1",
+  "hud_users_reconnect": "1",
+  "hud_users_with_c": "2",
+  "reconnected": true,
+  "b_snapshot_users": 2,
+  "b_snapshot_windows": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "b_id": "909e5204-62d0-4d0b-844d-d59b6eb10594",
+  "page_user_id": "531743b4-c69e-41aa-8be1-6e93ecea6a0c",
+  "window_sync": {
+    "type": "windowSync",
+    "data": {
+      "id": "notes-2",
+      "title": "Notes",
+      "owner": "531743b4-c69e-41aa-8be1-6e93ecea6a0c",
+      "position": [
+        1.85,
+        -0.85,
+        0.2
+      ],
+      "rotationY": 0,
+      "scale": 1.5,
+      "zIndex": 5,
+      "lastModified": 1787008717719
+    }
+  },
+  "close_snapshot_windows": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "handsync_lines": [
+    "[log] [Sync] handSync userId=909e5204-62d0-4d0b-844d-d59b6eb10594 hands=1"
+  ],
+  "handsync_silent_before": true,
+  "user_joined_lines": [
+    "[log] [Sync] userJoined userId=909e5204-62d0-4d0b-844d-d59b6eb10594"
+  ],
+  "user_left_lines": [
+    "[log] [Sync] userLeft userId=909e5204-62d0-4d0b-844d-d59b6eb10594"
+  ],
+  "offline_boot_windows": [
+    "dashboard-1",
+    "notes-1",
+    "chat-1",
+    "search-1"
+  ],
+  "boot_line_hits": 4,
+  "ws_urls_total": [
+    "ws://localhost:5173/?token=zvmGZnJxeqD_",
+    "ws://localhost:4001/"
+  ],
+  "ws_urls_offline_page": [
+    "ws://localhost:5173/?token=zvmGZnJxeqD_",
+    "ws://localhost:4001/"
+  ],
+  "offline_ws_attempts_at_boundary": 0,
+  "fps_logged": [
+    43,
+    42,
+    48,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    38,
+    58,
+    59,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 59,
+  "latency_avgs_ms": [
+    2043,
+    216,
+    215,
+    214,
+    215,
+    218,
+    217,
+    214,
+    219,
+    218,
+    217,
+    218,
+    218,
+    216,
+    214,
+    219,
+    218,
+    219,
+    2139,
+    216,
+    218,
+    216,
+    224,
+    217,
+    223,
+    219,
+    217,
+    218
+  ],
+  "latency_min_avg": 214,
+  "latency_line_count": 28,
+  "cleanup_counts": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "perf_line_count": 8,
+  "perf_all_match": true,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_log_lines": [],
+  "live_tracks": 1,
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true
+}
+
+=== CHECKS ===
+  PASS  a: zero console errors and zero page errors across BOTH pages (incl. offline + reconnect, modulo documented probe noise)
+  PASS  b: boot scene exact: 4 app windows, ids exactly dashboard-1 + notes-1 + chat-1 + search-1, all fully on screen, boot console line says 4
+  PASS  c: HUD shows M11+ title (tolerant since M12), Camera active, MediaPipe ready, Windows = 4, Sync connected, Users = 1 at boot
+  PASS  d: backend /api/health returns status ok with wsPort 4001 (OUR subprocess)
+  PASS  e: multi-user: B join -> Users 2 + userJoined log; B snapshot users=2 incl. the 4 flushed boot windows; B close -> Users 1 + userLeft log
+  PASS  f: handSync: B's handUpdates produce [Sync] handSync userId=<B> hands=1; page was handSync-silent before (empty-hand suppression)
+  PASS  g: window round-trip: launcher opens notes-2 -> B receives windowSync (owner = page userId, tuple position, scalar scale); close -> snapshot without notes-2; zero new errors
+  PASS  h: offline: backend down + fresh page -> Sync offline, Users 0, zero errors beyond probe noise, [Sync] offline line, ZERO :4001 websocket attempts, app functional (4 windows + boot line)
+  PASS  i: reconnect: backend restart -> Sync connected within 12 s; Users 1; user C joins -> Users 2
+  PASS  j: >= 1 [Performance] line, every line matching the M4 four-key format
+  PASS  k: latency >= 2 lines, min avg in 150-260ms, < 300ms
+  PASS  l: cleanup counts balanced (CameraCapture == HandTracker, 2-4 each — two page loads)
+  PASS  m: exactly 1 live video track (page 1 introspection)
+  PASS  n: max logged FPS >= 30 (boot window)
+  PASS  o: no gesture log lines (no hands on fake webcam)
+  PASS  p: backend log contains the HTTP + WebSocket listening lines (D5 order)
+OVERALL: PASS
+
+EXIT 0

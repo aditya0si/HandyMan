@@ -1,0 +1,90 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic:
+        - text: News Board
+        - generic [ref=e9]: YOU
+      - generic [ref=e10]:
+        - button "Minimize News Board" [ref=e11] [cursor=pointer]: −
+        - button "Close News Board" [ref=e12] [cursor=pointer]: ✕
+    - generic:
+      - generic:
+        - generic:
+          - 'img "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances"'
+          - generic [ref=e13]: The Verge
+          - generic [ref=e16]: 1h ago
+        - generic [ref=e17]:
+          - generic:
+            - 'heading "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances" [level=2]'
+            - paragraph: Apple expands spatial computing capabilities with panoramic virtual displays, ultra-low latency hand tracking, and advanced spatial audio modeling.
+          - generic:
+            - link "Read Full Story ↗" [ref=e18] [cursor=pointer]:
+              - /url: https://www.apple.com/apple-vision-pro/
+            - generic [ref=e19]:
+              - button "◀" [ref=e20] [cursor=pointer]
+              - generic [ref=e21]:
+                - generic [ref=e22] [cursor=pointer]
+                - generic [ref=e23] [cursor=pointer]
+                - generic [ref=e24] [cursor=pointer]
+                - generic [ref=e25] [cursor=pointer]
+                - generic [ref=e26] [cursor=pointer]
+              - button "▶" [ref=e27] [cursor=pointer]
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - generic:
+        - text: Weather
+        - generic [ref=e31]: YOU
+      - generic [ref=e32]:
+        - button "Minimize Weather" [ref=e33] [cursor=pointer]: −
+        - button "Close Weather" [ref=e34] [cursor=pointer]: ✕
+    - generic: Loading…
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - generic:
+        - text: Markets
+        - generic [ref=e40]: YOU
+      - generic [ref=e41]:
+        - button "Minimize Markets" [ref=e42] [cursor=pointer]: −
+        - button "Close Markets" [ref=e43] [cursor=pointer]: ✕
+    - generic [ref=e44]:
+      - generic [ref=e45]: Loading…
+      - generic: LIVE · COINGECKO · TOP 5 BY MARKET CAP
+  - generic [ref=e46]:
+    - generic [ref=e47]: GESTURES
+    - generic [ref=e48]: No hands detected
+  - button "Reset view" [ref=e49] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: JARVIS · Milestone 15
+    - generic [ref=e53]:
+      - generic [ref=e54]: Camera
+      - generic [ref=e55]: starting
+    - generic [ref=e56]:
+      - generic [ref=e57]: MediaPipe
+      - generic [ref=e58]: loading
+    - generic [ref=e59]:
+      - generic [ref=e60]: Hands
+      - generic [ref=e61]: "0"
+    - generic [ref=e62]:
+      - generic [ref=e63]: Windows
+      - generic [ref=e64]: "3"
+    - generic [ref=e65]:
+      - generic [ref=e66]: Gestures
+      - generic [ref=e67]: —
+    - generic [ref=e68]:
+      - generic [ref=e69]: FPS
+      - generic [ref=e70]: "0"
+    - generic [ref=e71]:
+      - generic [ref=e72]: Latency
+      - generic [ref=e73]: 0 ms
+    - generic [ref=e74]:
+      - generic [ref=e75]: Sync
+      - generic [ref=e76]: connecting
+    - generic [ref=e77]:
+      - generic [ref=e78]: Users
+      - generic [ref=e79]: "0"
+    - generic [ref=e80]:
+      - generic [ref=e81]: Errors
+      - generic [ref=e82]: "0"
+    - generic [ref=e83]:
+      - generic [ref=e84]: Remote
+      - generic [ref=e85]: "0"

@@ -1,0 +1,149 @@
+[debug] [vite] connecting...
+[debug] [vite] connected.
+[info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] cleanup: capture stopped, tracks released
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[warning] WebGL: CONTEXT_LOST_WEBGL: loseContext: context lost
+[warning] WebGL: CONTEXT_LOST_WEBGL: loseContext: context lost
+[log] THREE.WebGLRenderer: Context Lost.
+[log] [Sync] connected
+[log] [CameraCapture] stream resolved after unmount; tracks stopped
+[log] [CameraCapture] stream active (1 live track(s), 1 video)
+[log] [HandTracker] cleanup: camera stopped, hands solution closed
+[log] [Scene3D] FPS: 43
+[log] THREE.WebGLRenderer: Context Restored.
+[warning] [.WebGL-0x786c001ac200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x786c001ac200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x786c001ac200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[warning] [.WebGL-0x786c001ac200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[log] [Scene3D] FPS: 42
+[log] [HandTracker] MediaPipe Hands model loaded from CDN
+[log] [Scene3D] FPS: 48
+[log] [CameraCapture] stream replaced by tracker camera; released
+[warning] I0000 00:00:1787008697.703000       1 gl_context_webgl.cc:151] Successfully created a WebGL context with major version 3 and handle 3
+[warning] I0000 00:00:1787008697.709000       1 gl_context.cc:359] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium)))
+[warning] W0000 00:00:1787008697.710000       1 gl_context.cc:1000] OpenGL error checking is disabled
+[log] [HandTracker] detection latency: avg 2043ms over 1 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Performance] handDetectionLatency=2043ms renderFPS=48 gestureRecognitionLatency=0.4ms interactionLatency=0.0ms
+[log] [Scene3D] FPS: 3
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 215ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 214ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 215ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=215ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 214ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Sync] userJoined userId=909e5204-62d0-4d0b-844d-d59b6eb10594
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=216ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [Sync] handSync userId=909e5204-62d0-4d0b-844d-d59b6eb10594 hands=1
+[log] [HandTracker] detection latency: avg 214ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Sync] userLeft userId=909e5204-62d0-4d0b-844d-d59b6eb10594
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms
+[debug] [vite] connecting...
+[debug] [vite] connected.
+[info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] cleanup: capture stopped, tracks released
+[log] [App] test cube added to scene
+[log] [App] app scene ready: 4 app windows created
+[log] [CameraCapture] stream resolved after unmount; tracks stopped
+[log] [CameraCapture] stream active (1 live track(s), 1 video)
+[log] [HandTracker] cleanup: camera stopped, hands solution closed
+[log] [Scene3D] FPS: 38
+[log] [Scene3D] FPS: 58
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Sync] offline
+[log] [Scene3D] FPS: 59
+[log] [HandTracker] MediaPipe Hands model loaded from CDN
+[log] [CameraCapture] stream replaced by tracker camera; released
+[warning] I0000 00:00:1787008725.933000       1 gl_context_webgl.cc:151] Successfully created a WebGL context with major version 3 and handle 3
+[warning] I0000 00:00:1787008725.938000       1 gl_context.cc:359] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium)))
+[warning] W0000 00:00:1787008725.938000       1 gl_context.cc:1000] OpenGL error checking is disabled
+[log] [HandTracker] detection latency: avg 2139ms over 1 frame(s)
+[log] [App] Hands detected: 0 (none)
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [Performance] handDetectionLatency=2139ms renderFPS=59 gestureRecognitionLatency=0.6ms interactionLatency=0.0ms
+[log] [Scene3D] FPS: 5
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 216ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[error] Failed to load resource: net::ERR_CONNECTION_REFUSED
+[log] [HandTracker] detection latency: avg 224ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Performance] handDetectionLatency=224ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 223ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Sync] connected
+[log] [Sync] userJoined userId=74f58314-7277-4c9e-b035-504bc2c87bbe
+[log] [HandTracker] detection latency: avg 219ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [HandTracker] detection latency: avg 217ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4
+[log] [Sync] userLeft userId=74f58314-7277-4c9e-b035-504bc2c87bbe
+[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms
+[log] [HandTracker] detection latency: avg 218ms over 5 frame(s)
+[log] [App] Hands detected: 0 (none)
+[log] [Scene3D] FPS: 4

@@ -1,0 +1,32 @@
+{
+  "js_chunk_count": 5,
+  "js_total_min_kb": 789.92,
+  "js_total_gzip_kb": 218.61,
+  "chunks": [
+    {
+      "file": "camera_utils-Cr-4jKIu.js",
+      "min_kb": 7.7,
+      "gzip_kb": 2.98
+    },
+    {
+      "file": "hands-DnhAcxL7.js",
+      "min_kb": 44.51,
+      "gzip_kb": 16.75
+    },
+    {
+      "file": "index-DLtZf7Mj.js",
+      "min_kb": 75.51,
+      "gzip_kb": 23.31
+    },
+    {
+      "file": "vendor-react-DzH5Pu2p.js",
+      "min_kb": 185.16,
+      "gzip_kb": 57.66
+    },
+    {
+      "file": "vendor-three-D58arCgD.js",
+      "min_kb": 477.04,
+      "gzip_kb": 117.91
+    }
+  ]
+}

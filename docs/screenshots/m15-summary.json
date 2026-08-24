@@ -1,0 +1,107 @@
+{
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 0,
+    "wsPort": 4001
+  },
+  "r_offline": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:43:13\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n215 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+    "errorsText": "0",
+    "errorBanner": false,
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1
+  },
+  "offline_hud_offline": true,
+  "offline_4_windows": true,
+  "offline_errors_zero": true,
+  "offline_save_inline": "Cannot reach the backend (http://localhost:4000) \u2014 is it running?",
+  "after_offline_churn": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "launcher_opened_offline": true,
+  "r_connected": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:43:26\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nCannot reach the backend (http://localhost:4000) \u2014 is it running?\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "errorsText": "0",
+    "errorBanner": false,
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1
+  },
+  "auto_connected": true,
+  "title_exact_m15": true,
+  "healthy_errors_zero": true,
+  "save_happy": "saved 4 \u2713",
+  "track_ended_inject": {
+    "before": "live",
+    "after": "live",
+    "threw": null
+  },
+  "camera_loss_banner": true,
+  "camera_loss_runtime": {
+    "hudText": "Camera unavailable\nCamera was disconnected mid-session. Reconnect it, then press Retry.\nRetry\nDashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:43:30\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nsaved 4 \u2713\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nerror\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "errorsText": "0",
+    "errorBanner": true,
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1
+  },
+  "reload_runtime": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:43:46\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "errorsText": "0",
+    "errorBanner": false,
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1
+  },
+  "reloaded_healthy": true,
+  "drop_sync_not_connected": true,
+  "drop_usable_windows": true,
+  "reconnected": true,
+  "reconnect_runtime": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:43:52\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n227 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "errorsText": "0",
+    "errorBanner": false,
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1
+  },
+  "console_errors": [],
+  "page_errors": [],
+  "perf_line_count": 10,
+  "perf_all_match": true,
+  "latency_line_count": 40,
+  "latency_min_avg": 212,
+  "fps_max": 50,
+  "gesture_log_lines": 0,
+  "boot_line_hits": 4,
+  "cleanup_pairs": {
+    "camera": 2,
+    "tracker": 2
+  },
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true
+}

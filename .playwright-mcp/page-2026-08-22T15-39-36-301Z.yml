@@ -1,0 +1,175 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e87]:
+        - text: News Board
+        - generic [ref=e9]: YOU
+      - generic [ref=e10]:
+        - button "Minimize News Board" [ref=e11] [cursor=pointer]: −
+        - button "Close News Board" [ref=e12] [cursor=pointer]: ✕
+    - generic [ref=e89]:
+      - generic:
+        - 'img "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances"'
+        - generic [ref=e13]: The Verge
+        - generic [ref=e16]: 1h ago
+      - generic [ref=e17]:
+        - generic [ref=e90]:
+          - 'heading "Apple Vision Pro Spatial Computing: Next-Gen VisionOS Advances" [level=2] [ref=e91]'
+          - paragraph [ref=e92]: Apple expands spatial computing capabilities with panoramic virtual displays, ultra-low latency hand tracking, and advanced spatial audio modeling.
+        - generic [ref=e93]:
+          - link "Read Full Story ↗" [ref=e18] [cursor=pointer]:
+            - /url: https://www.apple.com/apple-vision-pro/
+          - generic [ref=e19]:
+            - button "◀" [ref=e20] [cursor=pointer]
+            - generic [ref=e21]:
+              - generic [ref=e22] [cursor=pointer]
+              - generic [ref=e23] [cursor=pointer]
+              - generic [ref=e24] [cursor=pointer]
+              - generic [ref=e25] [cursor=pointer]
+              - generic [ref=e26] [cursor=pointer]
+            - button "▶" [ref=e27] [cursor=pointer]
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e94]:
+        - text: Weather
+        - generic [ref=e31]: YOU
+      - generic [ref=e32]:
+        - button "Minimize Weather" [ref=e33] [cursor=pointer]: −
+        - button "Close Weather" [ref=e34] [cursor=pointer]: ✕
+    - generic [ref=e35]:
+      - generic [ref=e96]:
+        - generic [ref=e97] [cursor=pointer]
+        - generic [ref=e98] [cursor=pointer]
+        - generic [ref=e99] [cursor=pointer]
+        - generic [ref=e100] [cursor=pointer]
+      - generic [ref=e101]:
+        - generic [ref=e102]: ☁
+        - generic [ref=e103]:
+          - generic [ref=e104]: 22°
+          - generic [ref=e105]: Overcast
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - text: H
+          - generic [ref=e108]: 22°
+        - generic [ref=e109]:
+          - text: L
+          - generic [ref=e110]: 13°
+        - generic [ref=e111]:
+          - text: Wind
+          - generic [ref=e112]: 9 km/h
+        - generic [ref=e113]:
+          - text: Hum
+          - generic [ref=e114]: 31%
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - generic [ref=e117]: S
+          - generic [ref=e118]: ☁
+          - generic [ref=e119]: 22°
+          - generic [ref=e120]: 13°
+        - generic [ref=e121]:
+          - generic [ref=e122]: S
+          - generic [ref=e123]: ☁
+          - generic [ref=e124]: 23°
+          - generic [ref=e125]: 15°
+        - generic [ref=e126]:
+          - generic [ref=e127]: M
+          - generic [ref=e128]: ◌
+          - generic [ref=e129]: 22°
+          - generic [ref=e130]: 15°
+        - generic [ref=e131]:
+          - generic [ref=e132]: T
+          - generic [ref=e133]: ◌
+          - generic [ref=e134]: 26°
+          - generic [ref=e135]: 17°
+        - generic [ref=e136]:
+          - generic [ref=e137]: W
+          - generic [ref=e138]: ◌
+          - generic [ref=e139]: 25°
+          - generic [ref=e140]: 19°
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - generic:
+        - text: Markets
+        - generic [ref=e40]: YOU
+      - generic [ref=e41]:
+        - button "Minimize Markets" [ref=e42] [cursor=pointer]: −
+        - button "Close Markets" [ref=e43] [cursor=pointer]: ✕
+    - generic [ref=e44]:
+      - generic [ref=e141]:
+        - generic:
+          - generic: BTC
+          - generic: Bitcoin
+        - generic [ref=e144]:
+          - generic [ref=e145]: $77,047.00
+          - generic [ref=e146]: +0.10%
+      - generic [ref=e147]:
+        - generic:
+          - generic: ETH
+          - generic: Ethereum
+        - generic [ref=e150]:
+          - generic [ref=e151]: $2,412.67
+          - generic [ref=e152]: +1.50%
+      - generic [ref=e153]:
+        - generic:
+          - generic: USDT
+          - generic: Tether
+        - generic [ref=e156]:
+          - generic [ref=e157]: $0.9998
+          - generic [ref=e158]: 0.00%
+      - generic [ref=e159]:
+        - generic:
+          - generic: BNB
+          - generic: BNB
+        - generic [ref=e162]:
+          - generic [ref=e163]: $690.14
+          - generic [ref=e164]: +2.00%
+      - generic [ref=e165]:
+        - generic:
+          - generic: XRP
+          - generic: XRP
+        - generic [ref=e168]:
+          - generic [ref=e169]: $1.44
+          - generic [ref=e170]: +3.10%
+      - generic [ref=e171]: LIVE · COINGECKO · TOP 5 BY MARKET CAP
+  - generic [ref=e46]:
+    - generic [ref=e47]: GESTURES
+    - generic [ref=e172]:
+      - generic [ref=e173]: Left
+      - generic [ref=e174]: NONE
+      - generic [ref=e175]: c 0.00 · i 0.00
+  - button "Reset view" [ref=e49] [cursor=pointer]
+  - generic [ref=e50]:
+    - generic [ref=e51]: JARVIS · Milestone 15
+    - generic [ref=e53]:
+      - generic [ref=e54]: Camera
+      - generic [ref=e55]: active
+    - generic [ref=e56]:
+      - generic [ref=e57]: MediaPipe
+      - generic [ref=e58]: ready
+    - generic [ref=e59]:
+      - generic [ref=e60]: Hands
+      - generic [ref=e61]: "1"
+    - generic [ref=e62]:
+      - generic [ref=e63]: Windows
+      - generic [ref=e64]: "3"
+    - generic [ref=e65]:
+      - generic [ref=e66]: Gestures
+      - generic [ref=e67]: L:none
+    - generic [ref=e68]:
+      - generic [ref=e69]: FPS
+      - generic [ref=e70]: "16"
+    - generic [ref=e71]:
+      - generic [ref=e72]: Latency
+      - generic [ref=e73]: 42 ms
+    - generic [ref=e74]:
+      - generic [ref=e75]: Sync
+      - generic [ref=e76]: connected
+    - generic [ref=e77]:
+      - generic [ref=e78]: Users
+      - generic [ref=e79]: "1"
+    - generic [ref=e80]:
+      - generic [ref=e81]: Errors
+      - generic [ref=e82]: "0"
+    - generic [ref=e83]:
+      - generic [ref=e84]: Remote
+      - generic [ref=e85]: "0"

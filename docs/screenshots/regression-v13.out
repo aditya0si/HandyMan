@@ -1,0 +1,126 @@
+navigating to http://localhost:5173
+
+=== SUMMARY ===
+{
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 1,
+    "wsPort": 4001
+  },
+  "backend_health_restart": {
+    "status": "ok",
+    "uptimeSec": 0,
+    "wsPort": 4001
+  },
+  "hud_boot": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:41:06\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n216 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+  "boot_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "chat_demo_banner": true,
+  "live_tracks": 1,
+  "modified_ids": [
+    "dashboard-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ],
+  "save_status_inline": "saved 4 \u2713",
+  "save_status_polled_ok": true,
+  "get_after_save": {
+    "status": 200,
+    "ids": [
+      "dashboard-1",
+      "notes-1",
+      "notes-2",
+      "search-1"
+    ]
+  },
+  "file_roundtrip_ws_ids": [
+    "dashboard-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ],
+  "notes2_after_reload": true,
+  "reloaded_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ],
+  "live_ids_before_load": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ],
+  "loaded_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "notes-2",
+    "search-1"
+  ],
+  "proxy_status": {
+    "http": 200,
+    "body": {
+      "llm": false,
+      "search": false
+    }
+  },
+  "proxy_llm": {
+    "http": 503,
+    "body": {
+      "error": "not_configured"
+    }
+  },
+  "proxy_search": {
+    "http": 503,
+    "body": {
+      "error": "not_configured"
+    }
+  },
+  "cors": {
+    "status": 204,
+    "origin": "http://localhost:5173"
+  },
+  "console_errors": [],
+  "page_errors": [],
+  "perf_line_count": 6,
+  "perf_all_match": true,
+  "latency_line_count": 27,
+  "latency_min_avg": 212,
+  "fps_max": 47,
+  "cleanup": {
+    "camera": 2,
+    "tracker": 2
+  },
+  "gesture_log_lines": 0,
+  "boot_line_hits": 4,
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true
+}
+
+=== CHECKS ===
+  PASS  a: boot exact — 4 windows, exact ids, boot line 4, title (tolerant since M14)
+  PASS  b: HUD — Camera active, MediaPipe ready, Windows 4, Sync connected, Users 1, Remote 0
+  PASS  c: modify + Save — inline 'saved 4 ✓'; GET /api/workspace == the 4 saved ids
+  PASS  d: cross-restart file round-trip — ws snapshot after RESTART == the saved ids
+  PASS  e: reload — the persisted notes-2 materializes from server state
+  PASS  f: Load button — DOM ids EQUAL the live GET set taken before the click
+  PASS  g: proxy no-key shapes — status false/false; llm + search 503 not_configured
+  PASS  h: CORS preflight from localhost:5173 -> 204 + ACAO echo
+  PASS  i: LLM Chat still demo-modes cleanly (banner, no keys anywhere)
+  PASS  j: zero console/page errors (restart window included, modulo probe noise)
+  PASS  k: >= 1 [Performance] line, all matching the M4 four-key format
+  PASS  l: latency >= 2 lines, min avg 150-260ms
+  PASS  m: cleanups balanced, 1 live track, FPS >= 30, no gesture lines
+  PASS  n: backend health ok + wsPort 4001; HTTP + WS listening log lines
+OVERALL: PASS
+
+EXIT 0

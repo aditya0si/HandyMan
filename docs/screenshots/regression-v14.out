@@ -1,0 +1,134 @@
+navigating (production preview) to http://localhost:4173
+boot runtime: {
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:41:54\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n9.5 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+  "windowIds": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "liveTracks": 1,
+  "heapMb": 9.5367431640625
+}
+
+=== SUMMARY ===
+{
+  "chunks": {
+    "js_chunk_count": 5,
+    "js_total_min_kb": 789.92,
+    "js_total_gzip_kb": 218.61,
+    "chunks": [
+      {
+        "file": "camera_utils-Cr-4jKIu.js",
+        "min_kb": 7.7,
+        "gzip_kb": 2.98
+      },
+      {
+        "file": "hands-DnhAcxL7.js",
+        "min_kb": 44.51,
+        "gzip_kb": 16.75
+      },
+      {
+        "file": "index-DLtZf7Mj.js",
+        "min_kb": 75.51,
+        "gzip_kb": 23.31
+      },
+      {
+        "file": "vendor-react-DzH5Pu2p.js",
+        "min_kb": 185.16,
+        "gzip_kb": 57.66
+      },
+      {
+        "file": "vendor-three-D58arCgD.js",
+        "min_kb": 477.04,
+        "gzip_kb": 117.91
+      }
+    ]
+  },
+  "backend_health": {
+    "status": "ok",
+    "uptimeSec": 1,
+    "wsPort": 4001
+  },
+  "r_boot": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:41:54\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n9.5 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n218 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1,
+    "heapMb": 9.5367431640625
+  },
+  "heap_before_mb": 9.5367431640625,
+  "heap_after_cycles_mb": 9.5367431640625,
+  "heap_series_mb": [
+    9.54,
+    9.54,
+    9.54,
+    9.54,
+    9.54,
+    9.54
+  ],
+  "open_close_return": true,
+  "cycle_window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "soak_materialized": true,
+  "soak_moved": true,
+  "soak_left_first": "645.399px",
+  "soak_left_last": "615.705px",
+  "soak_gone_after_close": true,
+  "raf_rate_after": 5,
+  "r_after_reload": {
+    "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:42:30\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n9.5 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\nconnected\nUsers\n1\nErrors\n0\nRemote\n0",
+    "windowIds": [
+      "chat-1",
+      "dashboard-1",
+      "notes-1",
+      "search-1"
+    ],
+    "liveTracks": 1,
+    "heapMb": 9.5367431640625
+  },
+  "perf_debug_default_count": 0,
+  "perf_debug_on_count": 11,
+  "perf_debug_conformant": true,
+  "console_errors": [],
+  "page_errors": [],
+  "perf_line_count": 12,
+  "perf_all_match": true,
+  "latency_line_count": 54,
+  "latency_min_avg": 212,
+  "fps_max": 50,
+  "cleanup": {
+    "camera": 0,
+    "tracker": 0
+  },
+  "gesture_log_lines": 0,
+  "boot_line_hits": 2,
+  "backend_log_has_http": true,
+  "backend_log_has_ws": true
+}
+
+=== CHECKS ===
+  PASS  a: build chunk report — > 1 JS chunk, sizes recorded (min + gzip)
+  PASS  b: PRODUCTION boot exact — 'JARVIS · Milestone' title, 4 windows, Camera/MediaPipe ready, Windows 4, Sync connected, Users 1
+  PASS  c: opt-in DISABLED by default — zero [PerfDebug] lines on the plain page/reload
+  PASS  d: ?perf=1 shows the [PerfDebug] breakdown, format-conformant, at least one line
+  PASS  e1: soak — 5 open/close cycles return memory (heap <= before + 12MB) and windows back to the 4 boot ids
+  PASS  e2: soak — remote ws moves apply (soak-1 materializes + moves + closes)
+  PASS  e3: soak — heap series plateaus (no runaway growth across ~6s)
+  PASS  f: production reload -> app ready again + boot windows restored (StrictMode is inert in the build, so ZERO cleanup lines is the honest expectation)
+  PASS  g: zero console/page errors across every phase
+  PASS  h: >= 1 [Performance] line, all matching the M4 four-key format
+  PASS  i: latency >= 2 lines, min avg 150-260ms
+  PASS  j: FPS >= 30, 1 live video track, no gesture log lines
+  PASS  k: backend health ok + HTTP/WS listening lines
+OVERALL: PASS
+
+EXIT 0

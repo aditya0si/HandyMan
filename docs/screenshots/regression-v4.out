@@ -1,0 +1,1194 @@
+navigating to http://localhost:5173
+runtime: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 17.134688,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "gestureDebugPresent": true,
+  "gestureDebugVisible": true,
+  "gestureDebugText": "GESTURES\nNo hands detected",
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:31:49\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:31:49\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0"
+}
+soak: collecting 10 samples 15s apart (~135s)
+  sample 1/10: raf={'granted': 1212, 'revoked': 7, 'fired': 1201, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 2/10: raf={'granted': 1602, 'revoked': 7, 'fired': 1591, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 3/10: raf={'granted': 1992, 'revoked': 7, 'fired': 1981, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 4/10: raf={'granted': 2376, 'revoked': 7, 'fired': 2365, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 5/10: raf={'granted': 2766, 'revoked': 7, 'fired': 2755, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 6/10: raf={'granted': 3156, 'revoked': 7, 'fired': 3145, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 7/10: raf={'granted': 3546, 'revoked': 7, 'fired': 3535, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 8/10: raf={'granted': 3936, 'revoked': 7, 'fired': 3925, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 9/10: raf={'granted': 4326, 'revoked': 7, 'fired': 4315, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+  sample 10/10: raf={'granted': 4716, 'revoked': 7, 'fired': 4705, 'pending': 4} listeners={'added': 187, 'removed': 6, 'net': 181} heap=22.0MB
+post-reload runtime: {
+  "videoMeta": {
+    "readyState": 4,
+    "currentTime": 7.663637,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "gestureDebugPresent": true,
+  "gestureDebugVisible": true,
+  "gestureDebugText": "GESTURES\nNo hands detected",
+  "floatingWindows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:34:14\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "hudText": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:34:14\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0"
+}
+cleanup pre/post reload: {'camera_capture': 1, 'hand_tracker': 1} {'camera_capture': 2, 'hand_tracker': 2}
+soak console rate: 395 lines over 136s = 2.90 lines/s
+
+=== SUMMARY ===
+{
+  "video": {
+    "readyState": 4,
+    "currentTime": 17.134688,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "floating_windows": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:31:49\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "window_ids": [
+    "chat-1",
+    "dashboard-1",
+    "notes-1",
+    "search-1"
+  ],
+  "windows_on_screen": [
+    {
+      "id": "dashboard-1",
+      "text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:31:49\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose",
+      "display": "block",
+      "left": 379.328125,
+      "top": 289.890625,
+      "width": 158.671875,
+      "height": 50.203125
+    },
+    {
+      "id": "notes-1",
+      "text": "Notes\u25c8 YOU\n\u2212\n\u2715",
+      "display": "block",
+      "left": 737.109375,
+      "top": 446.328125,
+      "width": 153.28125,
+      "height": 48.484375
+    },
+    {
+      "id": "chat-1",
+      "text": "LLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend",
+      "display": "block",
+      "left": 557.6875,
+      "top": 373.953125,
+      "width": 164.609375,
+      "height": 52.078125
+    },
+    {
+      "id": "search-1",
+      "text": "Web Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch",
+      "display": "block",
+      "left": 364.421875,
+      "top": 467.1875,
+      "width": 146.875,
+      "height": 46.46875
+    }
+  ],
+  "titles_visible": true,
+  "hud_text": "Dashboard\u25c8 YOU\n\u2212\n\u2715\nTIME\n04:31:49\nCPU\n16 cores\nMEM\n16 GB\nHEAP\n22.0 MB\nNET\nonline\n+ Dashboard\n+ Notes\n+ LLM Chat\n+ Web Search\nSave ws\nLoad ws\nMax\nMin\nClose\nNotes\u25c8 YOU\n\u2212\n\u2715\nLLM Chat\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no key (proxy & direct)\nSend\nWeb Search\u25c8 YOU\n\u2212\n\u2715\nDEMO MODE \u2014 no keys (proxy & direct)\nSearch\nGESTURES\nNo hands detected\nReset view\nJARVIS \u00b7 Milestone 15\nCamera\nactive\nMediaPipe\nready\nHands\n0\nWindows\n4\nGestures\n\u2014\nFPS\n4\nLatency\n217 ms\nSync\noffline\nUsers\n0\nErrors\n0\nRemote\n0",
+  "fps_logged": [
+    43,
+    42,
+    50,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    31,
+    2,
+    4,
+    4,
+    4,
+    4
+  ],
+  "fps_max": 50,
+  "latency_avgs_ms": [
+    2059,
+    215,
+    222,
+    219,
+    217,
+    217,
+    216,
+    221,
+    215,
+    217,
+    217,
+    219,
+    214,
+    217,
+    218,
+    217,
+    219,
+    219,
+    217,
+    216,
+    221,
+    217,
+    219,
+    219,
+    216,
+    225,
+    217,
+    217,
+    218,
+    217,
+    214,
+    217,
+    215,
+    219,
+    221,
+    218,
+    215,
+    217,
+    220,
+    219,
+    216,
+    230,
+    219,
+    238,
+    219,
+    220,
+    216,
+    216,
+    227,
+    225,
+    221,
+    217,
+    216,
+    218,
+    218,
+    223,
+    216,
+    224,
+    217,
+    217,
+    216,
+    220,
+    216,
+    212,
+    218,
+    218,
+    219,
+    218,
+    220,
+    216,
+    222,
+    216,
+    219,
+    214,
+    213,
+    220,
+    215,
+    216,
+    218,
+    223,
+    219,
+    216,
+    217,
+    219,
+    216,
+    217,
+    214,
+    217,
+    221,
+    220,
+    217,
+    215,
+    219,
+    222,
+    220,
+    213,
+    215,
+    223,
+    217,
+    219,
+    218,
+    215,
+    218,
+    217,
+    218,
+    219,
+    216,
+    221,
+    223,
+    219,
+    216,
+    218,
+    217,
+    218,
+    217,
+    224,
+    221,
+    212,
+    218,
+    219,
+    222,
+    220,
+    216,
+    219,
+    216,
+    219,
+    216,
+    222,
+    218,
+    2107,
+    221,
+    217,
+    221,
+    217
+  ],
+  "latency_min_avg": 212,
+  "latency_line_count": 134,
+  "perf_lines": [
+    "[log] [Performance] handDetectionLatency=2059ms renderFPS=50 gestureRecognitionLatency=0.5ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=215ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=214ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=218ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=227ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=216ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=224ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=220ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=222ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=213ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=223ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=221ms renderFPS=4 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=215ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=215ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=216ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=217ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=218ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=219ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=222ms renderFPS=4 gestureRecognitionLatency=0.0ms interactionLatency=0.0ms",
+    "[log] [Performance] handDetectionLatency=221ms renderFPS=2 gestureRecognitionLatency=0.1ms interactionLatency=0.0ms"
+  ],
+  "perf_line_count": 31,
+  "perf_all_match": true,
+  "perf_renderfps_over_zero": 31,
+  "perf_median_gap_s": 5.123447300002226,
+  "cleanup_pre_reload": {
+    "camera_capture": 1,
+    "hand_tracker": 1
+  },
+  "cleanup_post_reload": {
+    "camera_capture": 2,
+    "hand_tracker": 2
+  },
+  "cleanup_delta": {
+    "camera_capture": 1,
+    "hand_tracker": 1
+  },
+  "post_reload_video": {
+    "readyState": 4,
+    "currentTime": 7.663637,
+    "width": 1280,
+    "height": 720,
+    "srcObjectSet": true,
+    "tracksTotal": 1,
+    "liveTracks": 1,
+    "videoTracks": 1
+  },
+  "post_reload_windows_on_screen": 4,
+  "soak_samples": [
+    {
+      "raf": {
+        "granted": 1212,
+        "revoked": 7,
+        "fired": 1201,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 1602,
+        "revoked": 7,
+        "fired": 1591,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 1992,
+        "revoked": 7,
+        "fired": 1981,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 2376,
+        "revoked": 7,
+        "fired": 2365,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 2766,
+        "revoked": 7,
+        "fired": 2755,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 3156,
+        "revoked": 7,
+        "fired": 3145,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 3546,
+        "revoked": 7,
+        "fired": 3535,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 3936,
+        "revoked": 7,
+        "fired": 3925,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 4326,
+        "revoked": 7,
+        "fired": 4315,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    },
+    {
+      "raf": {
+        "granted": 4716,
+        "revoked": 7,
+        "fired": 4705,
+        "pending": 4
+      },
+      "listeners": {
+        "added": 187,
+        "removed": 6,
+        "net": 181
+      },
+      "memory": {
+        "usedJSHeapSize": 23100000,
+        "totalJSHeapSize": 29400000
+      },
+      "windows": [
+        {
+          "id": "dashboard-1",
+          "left": 379.328125,
+          "top": 289.890625,
+          "width": 158.671875,
+          "height": 50.203125
+        },
+        {
+          "id": "notes-1",
+          "left": 737.109375,
+          "top": 446.328125,
+          "width": 153.28125,
+          "height": 48.484375
+        },
+        {
+          "id": "chat-1",
+          "left": 557.6875,
+          "top": 373.953125,
+          "width": 164.609375,
+          "height": 52.078125
+        },
+        {
+          "id": "search-1",
+          "left": 364.421875,
+          "top": 467.1875,
+          "width": 146.875,
+          "height": 46.46875
+        }
+      ]
+    }
+  ],
+  "soak_duration_s": 136.4,
+  "soak_console_lines": 395,
+  "soak_lines_per_second": 2.9,
+  "heap_series_mb": [
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0,
+    22.0
+  ],
+  "heap_median_growth_mb": 0.0,
+  "heap_max_mb": 22.0,
+  "raf_series": [
+    {
+      "granted": 1212,
+      "revoked": 7,
+      "fired": 1201,
+      "pending": 4
+    },
+    {
+      "granted": 1602,
+      "revoked": 7,
+      "fired": 1591,
+      "pending": 4
+    },
+    {
+      "granted": 1992,
+      "revoked": 7,
+      "fired": 1981,
+      "pending": 4
+    },
+    {
+      "granted": 2376,
+      "revoked": 7,
+      "fired": 2365,
+      "pending": 4
+    },
+    {
+      "granted": 2766,
+      "revoked": 7,
+      "fired": 2755,
+      "pending": 4
+    },
+    {
+      "granted": 3156,
+      "revoked": 7,
+      "fired": 3145,
+      "pending": 4
+    },
+    {
+      "granted": 3546,
+      "revoked": 7,
+      "fired": 3535,
+      "pending": 4
+    },
+    {
+      "granted": 3936,
+      "revoked": 7,
+      "fired": 3925,
+      "pending": 4
+    },
+    {
+      "granted": 4326,
+      "revoked": 7,
+      "fired": 4315,
+      "pending": 4
+    },
+    {
+      "granted": 4716,
+      "revoked": 7,
+      "fired": 4705,
+      "pending": 4
+    }
+  ],
+  "raf_pending_delta": 0,
+  "listener_series": [
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    },
+    {
+      "added": 187,
+      "removed": 6,
+      "net": 181
+    }
+  ],
+  "listener_net_delta": 0,
+  "window_drift_worst_px": 0.0,
+  "window_drift_windows_present": true,
+  "cdn_asset_count": 12,
+  "page_errors": [],
+  "console_errors": [],
+  "gesture_panel": {
+    "present": true,
+    "visible": true,
+    "no_hands_state": true
+  },
+  "gesture_log_lines": []
+}
+
+=== CHECKS ===
+  PASS  a: zero console errors, zero page errors, soak spam <= 5 lines/s
+  PASS  b: >= 2 floating windows with distinct ids
+  PASS  c: window titles visible
+  PASS  d: gesture-debug panel shows 'No hands detected'
+  PASS  e: HUD intact (version-tolerant title), Camera active, MediaPipe ready, Windows row >= 2
+  PASS  f: max logged FPS >= 30 (boot window)
+  PASS  g: latency >= 2 lines, min avg in 150-260ms, < 300ms
+  PASS  h: >= 3 [Performance] lines, all matching the four-key format, >= 1 with renderFPS >= 1, median cadence in [4, 15]s
+  PASS  i: no-drift soak (window rects move < 1.5px first vs last sample)
+  PASS  j: no gesture log lines (no hands on fake webcam)
+  PASS  k: pre-reload cleanup counts balanced (CameraCapture == HandTracker, 1-2 each)
+  PASS  l: post-reload cleanup delta == 1 each, 1 live track, >= 2 windows on screen
+  PASS  m: rAF outstanding balance stable across soak (|last - first| <= 2)
+  PASS  n: listener net stable across soak (|last - first| <= 2)
+  PASS  o: heap: memory defined, median growth <= 30MB, no sample +60MB over first
+OVERALL: PASS
+
+EXIT 0
