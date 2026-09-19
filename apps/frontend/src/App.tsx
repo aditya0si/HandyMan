@@ -96,11 +96,25 @@ interface HudProps {
   onToggleEyeAttention: () => void;
 }
 
-function StatusRow({ label, value }: { label: string; value: string }) {
+function StatusRow({
+  label,
+  value,
+  valueTestId,
+}: {
+  label: string;
+  value: string;
+  /** Optional hook on the VALUE span only (label + value share one row, so a
+   *  row-level testid cannot assert the value alone). Mirrors the existing
+   *  hud-errors / remote-hands pattern. */
+  valueTestId?: string;
+}) {
   return (
     <div style={{ display: 'flex', justifyContent: 'space-between', gap: 16 }}>
       <span style={{ color: '#8b8f98' }}>{label}</span>
-      <span style={{ color: '#e8eaed', fontWeight: 500, fontVariantNumeric: 'tabular-nums' }}>
+      <span
+        data-testid={valueTestId}
+        style={{ color: '#e8eaed', fontWeight: 500, fontVariantNumeric: 'tabular-nums' }}
+      >
         {value}
       </span>
     </div>
@@ -173,7 +187,7 @@ function Hud({
         />
         JARVIS · Milestone 15
       </div>
-      <StatusRow label="Camera" value={cameraState} />
+      <StatusRow label="Camera" value={cameraState} valueTestId="hud-camera" />
       <StatusRow label="MediaPipe" value={mediaPipeState} />
       <StatusRow label="Hands" value={String(handsCount)} />
       <StatusRow label="Windows" value={String(windowsCount)} />
